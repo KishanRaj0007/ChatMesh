@@ -156,7 +156,7 @@ Reference : Lovepreet
 
 ## Architecture Flow (Message Lifecycle)
 
-`./assets/chatroom-flow.png`
+![Architecture Flow](assets/chatroom-flow.png)
 
 ---
 ## Code Structure and Component Explanation
@@ -266,7 +266,7 @@ This project uses system headers (`sys/socket.h`, `unistd.h`) not available on n
 
 ## Demo Output (Server + Client)
 
-`./assets/chatmesh-demo-output.png`
+![Server and Client Output](assets/chatmesh-demo-output.png)
 
 ---
 
