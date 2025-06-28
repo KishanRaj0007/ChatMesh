@@ -272,7 +272,9 @@ This project uses system headers (`sys/socket.h`, `unistd.h`) not available on n
 
 ## Demo Video
 
-`./assets/chatmesh-demo.mp4`
+## Demo Video
+
+[Click to watch demo](assets/chatroom-demo.mp4)
 
 ---
 
