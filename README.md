@@ -274,7 +274,7 @@ This project uses system headers (`sys/socket.h`, `unistd.h`) not available on n
 
 ## Demo Video
 
-[Click to watch demo](assets/chatroom-demo.mp4)
+[Click to watch demo](https://youtu.be/VbtHeihIVv4)
 
 ---
 
