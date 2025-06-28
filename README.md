@@ -1,5 +1,5 @@
 # ChatMesh : Multi-Client Asynchronous TCP Chat Server  
-**C++, Boost.Asio, Sockets, Threading, OOPs**
+**C++, Makefile Boost.Asio, Sockets, Threading, OOPs**
 
 Modular TCP-based chat system designed in C++ using Boost.Asio, featuring session management, message queuing, and real-time broadcasting.
 
