@@ -27,6 +27,12 @@ The project is ideal for demonstrating system-level programming, socket-based ne
 
 ---
 
+## Architecture Flow (Message Lifecycle)
+
+![Architecture Flow](assets/chatroom-flow.png)
+
+---
+
 ## LLD Diagram
 
 ```mermaid
@@ -154,11 +160,6 @@ Reference : Lovepreet
 
 ---
 
-## Architecture Flow (Message Lifecycle)
-
-![Architecture Flow](assets/chatroom-flow.png)
-
----
 ## Code Structure and Component Explanation
 
 ### 1. `message.hpp`  
