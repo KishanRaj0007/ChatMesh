@@ -273,8 +273,6 @@ This project uses system headers (`sys/socket.h`, `unistd.h`) not available on n
 
 ## Demo Video
 
-## Demo Video
-
 [Click to watch demo](https://youtu.be/VbtHeihIVv4)
 
 ---
